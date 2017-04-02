@@ -1,0 +1,15 @@
+a{
+
+   color : yellow ;
+
+
+}
+a:hover{
+	color: black;
+}
+ul{
+	text-align: center;
+}
+li{
+	display: inline;
+}
